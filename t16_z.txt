@@ -1,0 +1,7 @@
+This is the newn lineEntire content will be overwritten
+Append the data is better
+Hello Wrorld
+Entire content will be overwrittenThis is the newn lineEntire content will be overwritten
+Append the data is better
+Hello Wrorld
+No file overwrittenThis is the newn lineEntire content will remain same in append mode

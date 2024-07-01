@@ -1,0 +1,4 @@
+Sourav,B.Tech,CSE,8.95
+Soumajit,B.Tech,EE,7.95
+Aftab,B.Tech,CSE,7.90
+Aniket,B.Tech,ME,7.70
